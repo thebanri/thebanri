@@ -41,14 +41,7 @@
 ### 📅 Contribution Calendar
 <img src="https://ghchart.rshah.org/409ba5/thebanri" alt="Contribution Calendar" width="100%"/>
 
-### ⚡ Recent Activity
 
-...
-
-## 🏗️ Featured Projects
-<div align="center">
-
-...
 
 </div>
 
