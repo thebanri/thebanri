@@ -1,4 +1,4 @@
-# Hi there! 👾 I'm Arslan Aydin [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=Software+Engineer;Full+Stack+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
+# Hi there! 👾 I'm Arslan A. [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=Software+Engineer;Full+Stack+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
 
 ## 🎯 Current Focus
 - 🔭 Working on: **Improving my open-source contributions and exploring new technologies** 
