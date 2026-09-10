@@ -70,20 +70,21 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 🐍 Contribution Graph & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thebanri&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebanri&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" width="48%" />
+  <!-- Canlı Katkı ve Seri İstatistiği (Streak) -->
+  <img src="https://streak-stats.demolab.com?user=thebanri&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" />
+  
+  <br /><br />
+
+  <!-- Yılan Katkı Animasyonu (Dark & Light Mode Uyumlu) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thebanri/thebanri/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thebanri/thebanri/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/thebanri/thebanri/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </div>
-
-<div align="center">
-  <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thebanri&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=00FFAA&point=38bdae&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-
----
-
 <div align="center">
   <sub>"Simplicity is prerequisite for reliability." — Edsger W. Dijkstra</sub>
 </div>
