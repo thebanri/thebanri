@@ -2,7 +2,7 @@
   <h1>Hi there, I'm Arslan (thebanri) 👋</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFAA&center=true&vCenter=true&width=520&lines=Systems+%26+Go+Software+Engineer;Building+High-Performance+Terminal+Engines;Zero-Allocation+Architecture+Enthusiast;Open+Source+Craftsman" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFAA&center=true&vCenter=true&width=520&lines=Systems+%26+Go+Software+Engineer;Building+High-Performance+Terminal+Engines" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -12,6 +12,12 @@
   <p align="center">
     <a href="https://github.com/thebanri"><img src="https://img.shields.io/github/followers/thebanri?style=flat-square&logo=github&color=70a5fd&label=Followers" alt="GitHub Followers"></a>
     <img src="https://komarev.com/ghpvc/?username=thebanri&color=7aa2f7&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  </p>
+
+  <p align="center">
+    <a href="https://buymeacoffee.com/thebanri">
+      <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=%E2%98%95&slug=thebanri&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me a Coffee" />
+    </a>
   </p>
 </div>
 
