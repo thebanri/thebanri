@@ -2,7 +2,7 @@
   <h1>Hi there, I'm Arslan (thebanri) 👋</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFAA&center=true&vCenter=true&width=520&lines=Systems+%26+Go+Software+Engineer;Building+High-Performance+Terminal+Engines;Shipping+Reliable+Developer+Tools" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFAA&center=true&vCenter=true&width=520&lines=Systems+%26+Go+Software+Engineer;Building+High-Performance+Terminal+Tools" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -27,7 +27,7 @@
 
 <div align="center">
   <a href="https://github.com/thebanri/limoni">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thebanri&repo=limoni&theme=tokyonight&show_owner=true" alt="Limoni Repo" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thebanri&repo=limoni&theme=tokyonight&show_owner=true&cache_seconds=1800" alt="Limoni Repo" />
   </a>
 </div>
 
