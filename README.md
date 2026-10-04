@@ -11,7 +11,7 @@
 
   <p align="center">
     <a href="https://github.com/thebanri"><img src="https://img.shields.io/github/followers/thebanri?style=flat-square&logo=github&color=70a5fd&label=Followers" alt="GitHub Followers"></a>
-    <img src="https://komarev.com/ghpvc/?username=thebanri&color=7aa2f7&style=flat-square&label=Profile+Views" alt="Profile Views" />
+    <a href="https://komarev.com/ghpvc/?username=thebanri&color=7aa2f7&style=flat-square&label=Profile+Views"><img src="https://komarev.com/ghpvc/?username=thebanri&color=7aa2f7&style=flat-square&label=Profile+Views" alt="Profile Views" /></a>
   </p>
 
   <p align="center">
